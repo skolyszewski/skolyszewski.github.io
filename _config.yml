@@ -30,7 +30,7 @@ twitter_username: shevski_
 github_username:  skolyszewski
 
 # Build settings
-theme: no-style-please
+theme: riggraz/no-style-please
 # plugins:
 #   - jekyll-feed
 
