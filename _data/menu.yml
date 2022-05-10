@@ -4,8 +4,22 @@ entries:
       - title: Grzegorz Skołyszewski
       - title: based in 🇵🇱
       - title: Systems Engineer practicing and spreading SRE and DevOps love
-      - title: 'Socials:'
+      - title: 'socials:'
         entries:
-          - title: <a href="https://www.github.com/skolyszewski/">GitHub</a>
-          - title: <a href="https://twitter.com/shevski_">Twitter</a>
-          - title: <a href="https://www.linkedin.com/in/grzegorz-skolyszewski/">LinkedIn</a>
+          - title: GitHub
+            url: https://www.github.com/skolyszewski
+          - title: Twitter
+            url: https://twitter.com/shevski_
+          - title: LinkedIn
+            url: https://www.linkedin.com/in/grzegorz-skolyszewski/
+  - title: writeups
+    entries: []
+  - title: misc
+    entries:
+      - title: WTFisSRE 2022 Programme Committee member
+        url: https://www.cloud-native-sre.wtf/
+  - title: certs
+    entries:
+      - title: AZ-104 Azure Administrator Associate, March 2022
+        url: https://www.credly.com/badges/27cab83f-42dc-4e11-9ba5-e8aea7d6ea3a
+  - title: site powered by <a href="https://github.com/riggraz/no-style-please">riggraz/no-style-please</a>
