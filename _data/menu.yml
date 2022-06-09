@@ -12,8 +12,8 @@ entries:
             url: https://twitter.com/shevski_
           - title: LinkedIn
             url: https://www.linkedin.com/in/grzegorz-skolyszewski/
-  - title: writeups
-    entries: []
+  - title: thoughts
+    post_list: true
   - title: misc
     entries:
       - title: WTFisSRE 2022 Programme Committee member
