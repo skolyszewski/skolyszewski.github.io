@@ -1,4 +1,10 @@
-# Asynchronous communication and how to be effective with it
+---
+layout: post
+category: misc
+title: Asynchronous communication and how to be effective with it
+---
+
+# Introduction
 
 If you weren't working remotely before 2020, that most certainly changed when the pandemic struck and turned the world upside-down for many of us.
 This meant no more coffee breaks with your colleagues, no more problems with booking conference rooms for a meeting (that possibly could have been an email), but also - no more "hey, could you please help me with that issue" said to your colleague sitting right next to you[^1]. Remote work is different, and can be challenging, especially for engineers that are just starting in the field. However, remote-first approach opens the doors to a wonderful world of asynchronous communication.
@@ -30,11 +36,11 @@ But, all of these are only tools. Introducing them in your organization won't ma
 
 # Becoming effective in asynchronous communication world
 
-## It’s not about the tools
+### It’s not about the tools
 
 “So, if the tools won't make me good, what will?” It's all about culture, and a lot of practice. If you want people to communicate asynchronously, everyone has to change the way they think. This means, no more "hello, how are you" and silence on text chats[^2]. Provide context, as much as possible. If you need information, ask directly, but express yourself clearly and try to put context up-front. If you need inputs from people, let them know in your message. Don't leave room for assumptions and understatements. The person, that you're chatting with, is going to reply when they have time, and the last thing you want them to do is to ask about a very important detail that you omitted, when they respond couple of hours later.
 
-## Asynchronous communication when discussion is not enough
+### Asynchronous communication when discussion is not enough
 
 “Wait, but not everything can just be a short discussion…” you may say. True, but these bigger topics can still be handled asynchronously. There we want to use aforementioned knowledge sharing platforms. When doing that:
 
@@ -43,7 +49,7 @@ But, all of these are only tools. Introducing them in your organization won't ma
 
 Do above with as much clarity as possible. If you need to, set the due date for the work, define it in the document too, and stick to it. Once the document is “ready”, send it out. But don't wait forever, this is not a document you send to the tax office. It can, and will be refined over time. Let people know what the goals are and what you expect from them.
 
-## You can’t avoid synchronous communication, though
+### You can’t avoid synchronous communication, though
 
 Well, not everything can be done asynchronously. Whether something is too big and can't be easily broken down into smaller pieces, or is too ambiguous, it may actually be easier to meet and talk about it. Schedule a meeting then, don't be afraid of those. The goal is not to get rid of all of them, it's only to limit them to bare-minimum.
 
@@ -57,7 +63,7 @@ Start slowly. Don’t cancel all meetings that you have in you calendar. The nex
 
 Above may sound easy and logical, but it’s never as easy as it sounds. To be effective, you’ll need a lot of practice. But, you'll get there, eventually. And then everyone will be living a happier life, without having to be 24/7 online responding to Slack messages, or attending meetings about issues, that could have been resolved differently, and, at everyone’s pace.
 
-# Notes
+# Footnotes
 
 [^1]: it's half of 2022, and people are slowly coming back to work in offices, but remote-work will stay with us
 
