@@ -8,11 +8,12 @@ entries:
         entries:
           - title: GitHub
             url: https://www.github.com/skolyszewski
-          - title: Twitter
-            url: https://twitter.com/shevski_
+          - title: <a rel="me" href="https://hachyderm.io/@shev">Mastodon</a>
           - title: LinkedIn
             url: https://www.linkedin.com/in/grzegorz-skolyszewski/
-  - title: thoughts
+          - title: Twitter
+            url: https://twitter.com/shevski_
+  - title: thoughts & content
     post_list: true
     entries:
       - title: 2022-10-21 How to avoid global outage - Seamlessly migrating DaemonSet labels
